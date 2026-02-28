@@ -86,7 +86,7 @@ A curated list of resources on machine learning for fluid flow, structures and d
         - Key Ideas:
             - Gradient free design of airfoils through a direct prediction of shape from Cp
               distribution.
-        - **Potential Issue:**
+        - <b>Potential Issue:</b>
             - They claim CNN helps reduce design time from hours (using solvers) to seconds but they
               train using XFoil data which does not take hours for the optimization. It is not clear
               what their approach has improved upon.
